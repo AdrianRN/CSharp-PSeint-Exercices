@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Problema 5\Problema 5\obj\Debug\Problema 5.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Problema 5\Problema 5\bin\Debug\Problema 5.exe.config
+C:\Users\PC\Desktop\Problema 5\Problema 5\bin\Debug\Problema 5.exe
+C:\Users\PC\Desktop\Problema 5\Problema 5\bin\Debug\Problema 5.pdb
+C:\Users\PC\Desktop\Problema 5\Problema 5\obj\Debug\Problema 5.exe
+C:\Users\PC\Desktop\Problema 5\Problema 5\obj\Debug\Problema 5.pdb

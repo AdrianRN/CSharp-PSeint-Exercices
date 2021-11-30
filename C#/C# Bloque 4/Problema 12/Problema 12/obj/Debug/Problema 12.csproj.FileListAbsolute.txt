@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Problema 12\Problema 12\bin\Debug\Problema 12.exe.config
+C:\Users\PC\Desktop\Problema 12\Problema 12\bin\Debug\Problema 12.exe
+C:\Users\PC\Desktop\Problema 12\Problema 12\bin\Debug\Problema 12.pdb
+C:\Users\PC\Desktop\Problema 12\Problema 12\obj\Debug\Problema 12.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Problema 12\Problema 12\obj\Debug\Problema 12.exe
+C:\Users\PC\Desktop\Problema 12\Problema 12\obj\Debug\Problema 12.pdb

@@ -1,0 +1,7 @@
+C:\Users\Alumno\Desktop\Problema 3\Problema 3\bin\Debug\Problema 3.exe.config
+C:\Users\Alumno\Desktop\Problema 3\Problema 3\bin\Debug\Problema 3.exe
+C:\Users\Alumno\Desktop\Problema 3\Problema 3\bin\Debug\Problema 3.pdb
+C:\Users\Alumno\Desktop\Problema 3\Problema 3\obj\Debug\Problema 3.csprojAssemblyReference.cache
+C:\Users\Alumno\Desktop\Problema 3\Problema 3\obj\Debug\Problema 3.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Problema 3\Problema 3\obj\Debug\Problema 3.exe
+C:\Users\Alumno\Desktop\Problema 3\Problema 3\obj\Debug\Problema 3.pdb

@@ -1,0 +1,13 @@
+C:\Users\Estudiante\Desktop\Problema 3\Problema 3\bin\Debug\Problema 3.exe.config
+C:\Users\Estudiante\Desktop\Problema 3\Problema 3\bin\Debug\Problema 3.exe
+C:\Users\Estudiante\Desktop\Problema 3\Problema 3\bin\Debug\Problema 3.pdb
+C:\Users\Estudiante\Desktop\Problema 3\Problema 3\obj\Debug\Problema 3.csprojAssemblyReference.cache
+C:\Users\Estudiante\Desktop\Problema 3\Problema 3\obj\Debug\Problema 3.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Problema 3\Problema 3\obj\Debug\Problema 3.exe
+C:\Users\Estudiante\Desktop\Problema 3\Problema 3\obj\Debug\Problema 3.pdb
+C:\Users\PC\Desktop\EJERCICIOS PROGRAMACION\C#\Cuarto bloque\Problema 3\Problema 3\bin\Debug\Problema 3.exe.config
+C:\Users\PC\Desktop\EJERCICIOS PROGRAMACION\C#\Cuarto bloque\Problema 3\Problema 3\bin\Debug\Problema 3.exe
+C:\Users\PC\Desktop\EJERCICIOS PROGRAMACION\C#\Cuarto bloque\Problema 3\Problema 3\bin\Debug\Problema 3.pdb
+C:\Users\PC\Desktop\EJERCICIOS PROGRAMACION\C#\Cuarto bloque\Problema 3\Problema 3\obj\Debug\Problema 3.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\EJERCICIOS PROGRAMACION\C#\Cuarto bloque\Problema 3\Problema 3\obj\Debug\Problema 3.exe
+C:\Users\PC\Desktop\EJERCICIOS PROGRAMACION\C#\Cuarto bloque\Problema 3\Problema 3\obj\Debug\Problema 3.pdb

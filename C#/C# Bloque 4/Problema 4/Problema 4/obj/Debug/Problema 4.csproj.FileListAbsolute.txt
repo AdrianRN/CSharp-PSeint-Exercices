@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Desktop\Problema 4\Problema 4\bin\Debug\Problema 4.exe.config
+C:\Users\Estudiante\Desktop\Problema 4\Problema 4\bin\Debug\Problema 4.exe
+C:\Users\Estudiante\Desktop\Problema 4\Problema 4\bin\Debug\Problema 4.pdb
+C:\Users\Estudiante\Desktop\Problema 4\Problema 4\obj\Debug\Problema 4.csprojAssemblyReference.cache
+C:\Users\Estudiante\Desktop\Problema 4\Problema 4\obj\Debug\Problema 4.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Problema 4\Problema 4\obj\Debug\Problema 4.exe
+C:\Users\Estudiante\Desktop\Problema 4\Problema 4\obj\Debug\Problema 4.pdb

@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Bloque7\Bloque7\bin\Debug\Bloque7.exe.config
+C:\Users\PC\Desktop\Bloque7\Bloque7\bin\Debug\Bloque7.exe
+C:\Users\PC\Desktop\Bloque7\Bloque7\bin\Debug\Bloque7.pdb
+C:\Users\PC\Desktop\Bloque7\Bloque7\obj\Debug\Bloque7.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Bloque7\Bloque7\obj\Debug\Bloque7.exe
+C:\Users\PC\Desktop\Bloque7\Bloque7\obj\Debug\Bloque7.pdb

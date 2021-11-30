@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Saber\Saber\bin\Debug\Saber.exe.config
+C:\Users\PC\Desktop\Saber\Saber\bin\Debug\Saber.exe
+C:\Users\PC\Desktop\Saber\Saber\bin\Debug\Saber.pdb
+C:\Users\PC\Desktop\Saber\Saber\obj\Debug\Saber.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Saber\Saber\obj\Debug\Saber.exe
+C:\Users\PC\Desktop\Saber\Saber\obj\Debug\Saber.pdb

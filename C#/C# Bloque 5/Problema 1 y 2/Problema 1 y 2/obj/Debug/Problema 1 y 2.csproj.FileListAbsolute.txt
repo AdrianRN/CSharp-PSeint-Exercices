@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Problema 1 y 2\Problema 1 y 2\bin\Debug\Problema 1 y 2.exe.config
+C:\Users\PC\Desktop\Problema 1 y 2\Problema 1 y 2\bin\Debug\Problema 1 y 2.exe
+C:\Users\PC\Desktop\Problema 1 y 2\Problema 1 y 2\bin\Debug\Problema 1 y 2.pdb
+C:\Users\PC\Desktop\Problema 1 y 2\Problema 1 y 2\obj\Debug\Problema 1 y 2.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Problema 1 y 2\Problema 1 y 2\obj\Debug\Problema 1 y 2.exe
+C:\Users\PC\Desktop\Problema 1 y 2\Problema 1 y 2\obj\Debug\Problema 1 y 2.pdb

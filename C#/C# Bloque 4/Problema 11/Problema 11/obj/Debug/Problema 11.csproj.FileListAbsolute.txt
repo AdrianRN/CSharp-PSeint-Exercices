@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Problema 11\Problema 11\bin\Debug\Problema 11.exe.config
+C:\Users\PC\Desktop\Problema 11\Problema 11\bin\Debug\Problema 11.exe
+C:\Users\PC\Desktop\Problema 11\Problema 11\bin\Debug\Problema 11.pdb
+C:\Users\PC\Desktop\Problema 11\Problema 11\obj\Debug\Problema 11.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Problema 11\Problema 11\obj\Debug\Problema 11.exe
+C:\Users\PC\Desktop\Problema 11\Problema 11\obj\Debug\Problema 11.pdb

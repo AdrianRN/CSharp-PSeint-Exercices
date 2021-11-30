@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Problema 9\Problema 9\bin\Debug\Problema 9.exe.config
+C:\Users\PC\Desktop\Problema 9\Problema 9\bin\Debug\Problema 9.exe
+C:\Users\PC\Desktop\Problema 9\Problema 9\bin\Debug\Problema 9.pdb
+C:\Users\PC\Desktop\Problema 9\Problema 9\obj\Debug\Problema 9.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Problema 9\Problema 9\obj\Debug\Problema 9.exe
+C:\Users\PC\Desktop\Problema 9\Problema 9\obj\Debug\Problema 9.pdb

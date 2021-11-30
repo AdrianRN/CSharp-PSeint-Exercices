@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Problema 3 c\Problema 3 c\obj\Debug\Problema 3 c.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Problema 3 c\Problema 3 c\bin\Debug\Problema 3 c.exe.config
+C:\Users\PC\Desktop\Problema 3 c\Problema 3 c\bin\Debug\Problema 3 c.exe
+C:\Users\PC\Desktop\Problema 3 c\Problema 3 c\bin\Debug\Problema 3 c.pdb
+C:\Users\PC\Desktop\Problema 3 c\Problema 3 c\obj\Debug\Problema 3 c.exe
+C:\Users\PC\Desktop\Problema 3 c\Problema 3 c\obj\Debug\Problema 3 c.pdb

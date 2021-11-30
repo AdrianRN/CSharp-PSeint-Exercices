@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Problema 7\Problema 7\bin\Debug\Problema 7.exe.config
+C:\Users\PC\Desktop\Problema 7\Problema 7\bin\Debug\Problema 7.exe
+C:\Users\PC\Desktop\Problema 7\Problema 7\bin\Debug\Problema 7.pdb
+C:\Users\PC\Desktop\Problema 7\Problema 7\obj\Debug\Problema 7.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Problema 7\Problema 7\obj\Debug\Problema 7.exe
+C:\Users\PC\Desktop\Problema 7\Problema 7\obj\Debug\Problema 7.pdb

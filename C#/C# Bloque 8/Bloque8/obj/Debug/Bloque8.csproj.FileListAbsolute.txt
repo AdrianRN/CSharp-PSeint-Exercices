@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Bloque8\Bloque8\bin\Debug\Bloque8.exe.config
+C:\Users\PC\Desktop\Bloque8\Bloque8\bin\Debug\Bloque8.exe
+C:\Users\PC\Desktop\Bloque8\Bloque8\bin\Debug\Bloque8.pdb
+C:\Users\PC\Desktop\Bloque8\Bloque8\obj\Debug\Bloque8.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Bloque8\Bloque8\obj\Debug\Bloque8.exe
+C:\Users\PC\Desktop\Bloque8\Bloque8\obj\Debug\Bloque8.pdb

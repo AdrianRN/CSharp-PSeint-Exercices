@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Problema 8\Problema 8\bin\Debug\Problema 8.exe.config
+C:\Users\PC\Desktop\Problema 8\Problema 8\bin\Debug\Problema 8.exe
+C:\Users\PC\Desktop\Problema 8\Problema 8\bin\Debug\Problema 8.pdb
+C:\Users\PC\Desktop\Problema 8\Problema 8\obj\Debug\Problema 8.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Problema 8\Problema 8\obj\Debug\Problema 8.exe
+C:\Users\PC\Desktop\Problema 8\Problema 8\obj\Debug\Problema 8.pdb
